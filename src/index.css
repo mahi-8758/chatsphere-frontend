@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
+:root{font-family:'DM Sans',sans-serif;color:#18211f;background:#f4f7f5;font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}body{margin:0;min-width:320px}#root{min-height:100vh}.icon-button svg{width:18px;height:18px}.search-box svg{width:16px;height:16px;flex:0 0 16px}.chat-preview svg{width:14px;height:14px}
